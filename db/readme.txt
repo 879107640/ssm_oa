@@ -1,0 +1,1 @@
+expdp ssm/123456@orcl dumpfile=ssmoa.dmp
