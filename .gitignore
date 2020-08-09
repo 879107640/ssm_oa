@@ -1,0 +1,6 @@
+# Project exclude paths
+/ssm_oa_dao/target/
+/ssm_oa_domain/target/
+/ssm_oa_service/target/
+/ssm_oa_utils/target/
+/ssm_oa_web/target/
